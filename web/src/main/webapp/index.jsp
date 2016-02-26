@@ -13,7 +13,7 @@
 <body>
   <h1>Super Simple Example Web Page</h1>
   <p>
-Babuji valga
+Sample Demo
   </p>
 </body>
 </html>
